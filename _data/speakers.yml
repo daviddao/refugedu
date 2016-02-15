@@ -1,0 +1,18 @@
+-
+  id: 1
+  rockstar: true
+  name: "Kilian Kleinschmidt"
+  title: "Former Director"
+  company: "Za’atari Refugee Camp"
+  country: ""
+  thumbnailUrl: kilian-kleinschmidt.jpg
+  bio: ''
+-
+  id: 2
+  rockstar: true
+  name: "Markus Kressler"
+  title: "Co-Founder"
+  company: "Kiron University"
+  country: ""
+  thumbnailUrl: markus-kressler.jpg
+  bio: ''

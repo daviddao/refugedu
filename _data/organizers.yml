@@ -1,0 +1,4 @@
+-
+  group: "Organizers"
+  elements:
+    - {name: "Harvard School of Graduate Education", description: "", link: "", imageUrl: "gse.jpg"}

@@ -1,0 +1,64 @@
+
+- 
+  id: 0
+  name: "Kolja"
+  surname: "Wohlleben"
+  title: ""
+  thumbnailUrl: kolja.jpg
+  team: true
+  social: 
+    - {name: "site", link: ""}
+- 
+  id: 1
+  name: "Hibatalla"
+  surname: "Ibrahim"
+  title: ""
+  thumbnailUrl: 
+  team: true
+  social: 
+    - {name: "site", link: ""}
+- 
+  id: 2
+  name: "Sonya"
+  surname: "Temko"
+  title: ""
+  thumbnailUrl: 
+  team: true
+  social: 
+    - {name: "site", link: ""}
+- 
+  id: 3
+  name: "David"
+  surname: "Dao"
+  title: ""
+  thumbnailUrl: david.png
+  team: true
+  social: 
+    - {name: "site", link: ""}
+- 
+  id: 4
+  name: "Madhuri"
+  surname: "Dhariwal"
+  title: ""
+  thumbnailUrl: 
+  team: true
+  social: 
+    - {name: "site", link: ""}
+- 
+  id: 5
+  name: "Zohal"
+  surname: "Atif"
+  title: ""
+  thumbnailUrl: 
+  team: true
+  social: 
+    - {name: "site", link: ""}
+- 
+  id: 6
+  name: "Sonja"
+  surname: "Anderson"
+  title: ""
+  thumbnailUrl: 
+  team: true
+  social: 
+    - {name: "site", link: ""}

@@ -1,0 +1,201 @@
+# Plugins
+gems:
+- jekyll-sitemap
+safe: false
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', vendor]
+
+
+# Site Settings
+title: "Refugees and Education: Confronting the Crisis"
+email: ""
+description: "Refugees and Education: Confronting the Crisis"
+baseurl: "/refed"
+url: "http://hacknhelp.github.io"
+#permalink: "/blog/:title"
+
+# Organizer Info
+organizerName: "Refugees and Education: Confronting the Crisis"
+organizerAlternateName: ""
+organizerDescription: ""
+organizerEmail: ""
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "https://www.hacknhelp.org"
+
+# Head
+metaKeywords: "refugees, tech"
+twitterAccount: "@educationasrefuge"
+addThisEvent: true
+socialImageSrcGooglePlus: "/img/sections-background/hero.jpg"
+socialImageSrcTwitter: "/img/sections-background/hero.jpg"
+socialImageSrcFacebook: "/img/sections-background/hero.jpg"
+
+##
+googleAnalyticsTrackingId: "UA-70245610-1"
+googleAnalyticsSiteUrl: "hacknhelp.org"
+
+# Documents
+#c4pUrl: "https://bit.ly/dfua-c4p"
+#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "mailto:"
+seaturl: ""
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/about/", text: "About the conference"}
+
+ #- {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/team/", text: "Team"}
+ #- {permalink: "/logistics/", text: "Logistics"}
+bottomNavigationLinks:
+ #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+rightNavigationButtons:
+ #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+
+# Hero Block
+heroImage: "hero.jpg"
+heroTitle: "<h4>Refugees and Education: Confronting the Crisis</h4>"
+eventDate: "<h4>Harvard University</h4> <br> <h5>Sat April 9 2016</h5>"
+typeoutTextValues: '""'
+typeoutFallback: ""
+heroButtons:
+ #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ #- {permalink: "/#tickets", text: "Buy tickets"}
+
+# About Block
+aboutTitle: "<h3>About the conference</h3>"
+aboutBlock:
+ - {title: "First of its kind", image: "conference.jpg", text: "The first of its kind at Harvard University, the Refugees and Education Conference will delve into one of the most pertinent issues of our time." }
+ - {title: "One day, three panels", image: "workshop.jpg", text: "Refugees and Education: Confronting the Crisis, is a one-day event that strives to engage researchers, practitioners and policymakers from Europe, the Middle East and the US." }
+ - {title: "Attend and be inspired", image: "hackathon.jpg", text: "We strive not only to offer a space for rich discussion but also to serve as a call to action and a springboard for possible solutions." }
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "100", specialCharacter: "+", info: "attendees", detail: "from Harvard and Boston colleges"}
+ - {count: "10", specialCharacter: "", info: "speakers", detail: "from Europe, the Middle East and the US"}
+ - {count: "5", specialCharacter: "", info: "panels", detail: "to engage researchers, practitioners and policymakers"}
+
+# Latest News Block (We dont need )
+latestNewsTitle: "Latest news"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 3
+rockstarSpeakersTitle: "Our speakers"
+rockstarSpeakersButtonText: "See all speakers"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "Askwith Hall, Harvard GSE"
+eventLocationLink: ""
+eventStreetAddress: "13 Appian Way"
+eventAddressLocality: "Cambridge, MA"
+eventAddressLocalityRegion: ""
+eventPostalCode: "02138"
+eventAddressCountry: "USA"
+eventStartTime: "2016-04-09T10:00"
+eventDoorTime: "9:15"
+eventEndTime: "2016-04-09T16:30"
+eventPlaceCoordinates: "42.3754243,-71.121886"
+mapCenterCoordinates: "42.3754243,-71.121886"
+mapMobileCenterCoordinates: "42.3754243,-71.121886"
+
+# Venue Block
+venueBlockTitle: "Venue"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle: "Askwith Hall, Harvard Graduate School of Education"
+venueFeatures: ["", "", ""]
+
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "Tweet "
+twitterHashTag: "educationasrefuge"
+#twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+
+# Partners Block
+organizersTitle: "Organizers"
+partnersTitle: "Partners"
+partnersC4sponsorsButton: "Become a sponsor"
+
+# Footer
+socialLinks:
+footerBlocks:
+ -
+  title: ""
+  links:
+
+ # -
+ #  title: "FAQ"
+ #  links:
+ #   - {permalink: "/cod/", text: "Code of Conduct"}
+
+# Ideation
+ideationTitle: "Refugees and Education: Confronting the Crisis"
+ideationOrganisationsTitle: ""
+organisationsRows:
+ - {title: "<h5>The first of its kind at Harvard</h5>", image: "shield.png", details: "<b>The first of its kind at Harvard University, the Refugees and Education Conference will delve into one of the most pertinent issues of our time.</b>
+The brutal civil war in Syria has increased the already significant flow of refugees around the world.
+Millions are making the precarious journey to neighboring countries and across the Mediterranean in overcrowded rickety boats or are choosing ever more dangerous routes by land in search of more stable and secure lives on the European continent. As a result, host countries in Middle East are facing a significant burden and the European governments are struggling to cope with the influx."}
+ - {title: "<h5>A one day conference</h5>", image: "syria.png", details: "<em>Refugees and Education: Confronting the Crisis</em>, is a one-day event that strives to engage researchers, practitioners and policymakers from Europe, the Middle East and the US in constructive dialogue about the global response to the refugee crisis. It aims to address issues of education in emergencies, overburdened systems in neighboring countries and the European response to refugees’ educational ambitions and needs."}
+ - {title: "<h5>Attend and be inspired</h5>", image: "conference.png", details: "We strive not only to offer a space for rich discussion but also to serve as a call to action and a springboard for possible solutions. These goals are embedded within a larger Harvard-wide effort to influence policy, foster dialogue, raise funds and advocate for Syrian refugees under the umbrella of the Harvard Coalition for Syrian Refugees. This coalition is supported by the Harvard Middle East Initiative and is comprised of members from the Harvard Graduate School of Education, Harvard Law School, Harvard Kennedy School, Harvard Divinity School, Harvard T.H. Chan School of Public Health, Harvard Business School, Faculty of Arts and Sciences and Harvard College."}
+ideationSummaryTitle: "What happened so far?"
+ideationSummary:
+ - {text: "At our Ideation MeetUp we were able to welcome more than 60 people, with speakers from more than 10 organisations and one refugee. Everyone was keen on listening to different experiences and get to know various problems faced."}
+ - {text: "Suar told us his story, how he fled from Kurdistan in 2012 because of political and safety reasons. He then lived in Turkey for almost two years, where he learned Turkish but was not allowed to study or work. So he then carried on to get to Germany. In 2014, he left Turkey by foot, making his way through various countries until he eventually found to Austria, where he continued by car. When considering his border crossing, he had tried to use GPS on his smartphone but Google maps, for example, doesn’t provide information on where the safest place to cross a border on foot is.  What would have been helpful was information about how to enter a country safely. Additionally, as many refugees are weak, hungry, and dehydrated, information about where to get accessible food and water after entering a 'safe' country is critical. critical.
+All in all, what was most missing for him was information and guidance about what would help him to make a safe passage into a country and what to do after arriving."}
+
+# Blog
+blogTitle: "Latest news"
+blogCommentsEnabled: true
+discusShortName: ""
+
+# Speakers List Block
+showSessions: true
+
+# Team Block
+teamBlockTitle: "Our Team"
+aboutUs: "We are awesome. Blabla."
+
+# Hackathon
+hackathonTitle: "Hackathon"
+enableHackathon: false
+
+# Hackathon About Block
+aboutHackathonTitle: "<h3>About the conference</h3>"
+hackathonRows:
+ - {title: "<h5>The first of its kind at Harvard</h5>", image: "shield.png", details: "<b>The first of its kind at Harvard University, the Refugees and Education Conference will delve into one of the most pertinent issues of our time.</b>
+The brutal civil war in Syria has increased the already significant flow of refugees around the world.
+Millions are making the precarious journey to neighboring countries and across the Mediterranean in overcrowded rickety boats or are choosing ever more dangerous routes by land in search of more stable and secure lives on the European continent. As a result, host countries in Middle East are facing a significant burden and the European governments are struggling to cope with the influx."}
+ - {title: "<h5>A one day conference</h5>", image: "syria.png", details: "<em>Refugees and Education: Confronting the Crisis</em>, is a one-day event that strives to engage researchers, practitioners and policymakers from Europe, the Middle East and the US in constructive dialogue about the global response to the refugee crisis. It aims to address issues of education in emergencies, overburdened systems in neighboring countries and the European response to refugees’ educational ambitions and needs."}
+ - {title: "<h5>Attend and be inspired</h5>", image: "conference.png", details: "We strive not only to offer a space for rich discussion but also to serve as a call to action and a springboard for possible solutions. These goals are embedded within a larger Harvard-wide effort to influence policy, foster dialogue, raise funds and advocate for Syrian refugees under the umbrella of the Harvard Coalition for Syrian Refugees. This coalition is supported by the Harvard Middle East Initiative and is comprised of members from the Harvard Graduate School of Education, Harvard Law School, Harvard Kennedy School, Harvard Divinity School, Harvard T.H. Chan School of Public Health, Harvard Business School, Faculty of Arts and Sciences and Harvard College."}
+# Hackathon Judges Block (We dont need)
+judgesImage: "judges.jpg"
+judgesTitle: "Judges"
+
+# Hackathon Location Block (We dont need)
+hackathonLocationBlockTitle: "Location"
+hackathonLocationName: "Fakultät für Informatik"
+hackathonLocationLink: "http://tum.de/"
+hackathonStreetAddress: "Boltzmannstraße 3"
+hackathonAddressLocality: "Munich"
+hackathonAddressLocalityRegion: "Bavaria"
+hackathonPostalCode: "85748"
+hackathonAddressCountry: "Germany"
+hackathonTimeTitle: "Hack through"
+hackathonStartTime: "2014-10-24T10:00"
+hackathonDoorTime: "09:00"
+hackathonEndTime: "2014-10-25T00:00"
+viewOnMap: "View on Google Maps"
+hackathonPlaceCoordinates: "49.840999, 11.669776"
+hackathonMapCenterCoordinates: "49.840696, 24.028754"
+hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"

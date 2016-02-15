@@ -1,0 +1,7 @@
+- 
+  group: "General sponsor"
+  elements: 
+    - {name: "Goethe Institute", description: "", link: "www.goethe.de/boston", imageUrl: "goethe.png"}
+    - {name: "Wheatherhead Center", description: "", link: "http://wcfia.harvard.edu/" ,imageUrl: "weatherhead.png"}
+    - {name: "Wheatherhead Center", description: "", link: "" ,imageUrl: "y2ad.png"}
+    - {name: "Harvard Coaltion of Syrian Refugees", description: "", link: "" ,imageUrl: "coalition.png"}

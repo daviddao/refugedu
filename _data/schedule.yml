@@ -1,0 +1,41 @@
+-
+  date: "2016-04-09"
+  dateReadable: "April 9"
+  tracks:
+    - {title: "Refugees and Education", color: "#90be4e"}
+  timeslots:
+    - {
+        startTime: "9:30",
+        endTime: "10:15",
+        sessionIds: [100]
+    }
+    - {
+        startTime: "10:20",
+        endTime: "11:50",
+        sessionIds: [101]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "13:00",
+        sessionIds: [0]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "14:30",
+        sessionIds: [103]
+    }
+    - {
+        startTime: "14:40",
+        endTime: "16:10",
+        sessionIds: [102]
+    }
+    - {
+        startTime: "16:10",
+        endTime: "16:20",
+        sessionIds: [104]
+    }
+    - {
+        startTime: "17:00",
+        endTime: "18:00",
+        sessionIds: [1,2,3]
+    }

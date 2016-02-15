@@ -1,0 +1,46 @@
+-
+  id: 101
+  title: "Panel A: Education in Conflict: Global response to the Syrian Refugee Crisis."
+  description: "Focusing on the pressing Syrian refugee crisis, this panel will explore the landscape of education in conflict zones, highlighting the reasons why education should be prioritized. We want to explore how education can form national identities, act as a beacon of hope, provide safe spaces for children and counter the influence of extremism for youth caught in conflict zones. This panel will discuss what role should education play in resettlement, repatriation and integration. Panelists will lay a working foundation of current standards and structures in place as well as explore challenges of coordinating education in emergencies amongst International Agencies. Additional topics could include donors’ perspectives, and relations between host countries and international agencies. This panel will lay the framework for discussions around the Syrian refugee crisis by shedding light on the role of international agencies in education in emergencies."
+  speakers: [7, 11, 12, 17]
+-
+  id: 102
+  title: "Panel C: Refugees in Europe: Chances and Challenges"
+  description: "In August 2015, Germany declared that it would grant asylum status to Syrian citizens unconditionally. For 2015 alone, the country is now expecting up to a million asylum applications. In November 2015, Sweden, with three times as many refugees per capita as Germany, reintroduced border controls after it declared it had reached its intake capacities. Other countries have only accepted minimal numbers of asylum seekers or refused to host Muslim refugees altogether. This panel will be a dialogue about the chances and challenges that refugees present to Europe and about the opportunities and obstacles they face in their new host countries. How can refugees make use of the education and skills they bring with them to Europe? What can be done for children and youth whose lives have been disrupted and who do not speak the language of their host countries? We will debate the responsibility for cultural adaption and present examples of European citizens and educators engaged in the process. Lastly, we will attempt to foreshadow future developments and ask what consequences failed integration processes may present."
+  speakers: [3,4,5,9]
+-
+  id: 103
+  title: "Panel B: Refugee Education in overburdened systems: The case of neighboring host countries"
+  description: "There are 4.3 million Syrian refugees and a further 7.6 million displaced as a result of the ongoing turmoil in Syria, in what the United Nations describes as one of the most intractable refugee crisis in the world today. As a result, millions of Syrian refugee children across Lebanon, Jordan, Egypt and Turkey are not only in need of urgent humanitarian assistance but also of quality education opportunities. With the average time of displacement up to seventeen years, refugee education is perhaps the only education these children will have access to. This issue is compounded by the fact that many of these host countries already face significant existing problems such as political unrest, economic depression and already over-burdened education systems. This panel will explore these challenges, offering insights into the issues of language, curriculum, teaching, bullying, certification and funding among other topics. Ultimately we aim for this panel to provide not only a better understanding of the issues faced by host countries but also certain action points or areas of hope as we continue to address this humanitarian crisis."
+  speakers: [6,8,10,16]
+-
+  id: 104
+  title: "Closing Remarks"
+  description: ""
+-
+  id: 100
+  title: "Opening Keynote"
+  description: ""
+  subtype: keynote
+  speakers: [1]
+-
+  id: 0
+  title: "Break"
+  description: "Food, refreshments and time to meet the speakers"
+  speakers: 
+  service: true
+-
+  id: 1
+  title: "Movie Screening with the director: 'Wrestling Za'atari'"
+  description: "The movie: Wrestling Za'atari is a documentary telling the story of Mohammad Al-Krad, Syria's national wrestling champion now living in Jordan's Za'atari refugee camp."
+  speakers: [13]
+-
+  id: 2
+  title: "Extremism Prevention in British Schools: A Workshop with Gemma Gronland"
+  description: "Gemma’s workshop will provide a background into Prevent in schools, a critical examination of the ethical dilemmas of antiterrorism policy in schools and a chance to partake in an example of CPD in the field."
+  speakers: [14]
+-
+  id: 3
+  title: "Activism for the Syrian Cause: A Conversation with George Batah"
+  description: "Syrian activist George Batah will speak about his work as activist for Syrian refugees. You will have the opportunity to learn about his efforts to influence the US-administration in its acceptance of refugees and humanitarian aid policies in Syria."
+  speakers: [15]

@@ -1,0 +1,67 @@
+
+- 
+  id: 100
+  name: "Kolja"
+  surname: "Wohlleben"
+  title: ""
+  thumbnailUrl: kolja.jpg
+  team: true
+  social: 
+    - {name: "site", link: ""}
+- 
+  id: 101
+  name: "Hibatalla"
+  surname: "Ibrahim"
+  title: ""
+  thumbnailUrl: 
+  team: true
+  social: 
+    - {name: "site", link: ""}
+- 
+  id: 102
+  name: "Sonya"
+  surname: "Temko"
+  title: ""
+  thumbnailUrl: 
+  team: true
+  social: 
+    - {name: "site", link: ""}
+- 
+  id: 103
+  name: "David"
+  surname: "Dao"
+  title: ""
+  thumbnailUrl: david.png
+  team: true
+  social: 
+    - {name: "site", link: ""}
+  bio: "David is awesome"
+- 
+  id: 104
+  name: "Madhuri"
+  surname: "Dhariwal"
+  title: ""
+  bio: "Madhuri is an Ed.M. candidate at the Harvard Graduate School of Education, focusing on International Education Policy. Prior to coming here, she was a teacher in India. She is interested in helping marginalized groups receive quality education."
+  thumbnailUrl: "madhuri.jpg"
+  team: true
+  social: 
+    - {name: "site", link: ""}
+- 
+  id: 105
+  name: "Zohal"
+  surname: "Atif"
+  title: ""
+  thumbnailUrl: zohan.jpg
+  team: true
+  social: 
+    - {name: "site", link: ""}
+  bio: "Zohal Atif, is an Ed.M. candidate at Harvard Graduate School of Education with a focus in International Education Policy. Prior to her graduate studies she worked in non-profit financial management sector and as an Afghan education consultant for Institute of International Education. As a former Afghan refugee she is interested in exploring innovative solutions to educational challenges in conflict zones."
+- 
+  id: 106
+  name: "Sonja"
+  surname: "Anderson"
+  title: ""
+  thumbnailUrl: sonja.jpg
+  team: true
+  social: 
+    - {name: "site", link: ""}

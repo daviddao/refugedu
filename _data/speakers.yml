@@ -1,0 +1,208 @@
+-
+  id: 1
+  rockstar: true
+  name: "Kilian Kleinschmidt"
+  title: "Former Director"
+  company: "Za’atari Refugee Camp, Jordan"
+  country: ""
+  thumbnailUrl: kilian-kleinschmidt.jpg
+  bio: 'Kilian Kleinschmidt is an international networker, humanitarian, and refugee expert with over 25 years of experience as a United Nations official, aid worker, and diplomat. He has has become known as the “Mayor of Za’atari” for the management of the Za’atari refugee camp in Northern Jordan from 2013–2014. Mr. Kleinschmidt has acted as deputy humanitarian coordinator for Somalia, deputy special envoy for assistance to Pakistan, acting director for communities and minorities in the UN administration in Kosovo, executive secretary for the Migration and Refugee Initiative (MARRI) in the Stability Pact for South Eastern Europe, and held many field based functions with UNHCR, UNDP, and WFP. Today, Mr. Kleinschmidt is working as founder and chairman of the Startup Innovation and Planning Agency (IPA) which aims to connect the millions of poor and dispossessed with the idle and under-utilised resources and modern technologies of the 21st century through its project SWITxBOARD. <br> <br> We are delighted to announce that Mr. Kleinschmidt will open our conference with his keynote speech.'
+-
+  id: 12
+  rockstar: true
+  name: "Nahuel Arenas"
+  title: "Director of the Humanitarian Response Department"
+  company: "Oxfam, USA"
+  country: "USA"
+  thumbnailUrl: nahuel-arenas.jpg
+  bio: "Nahuel Arenas joined Oxfam in 2007 and since then has occupied several positions in the organization, leading humanitarian responses in Mozambique, Chad, Mauritania, Burkina Faso, South Sudan and supporting Oxfam’s response in Haiti. He has previously worked for Action Against Hunger and the Japan International Cooperation Agency (JICA) in different countries, and consulted for UN-HABITAT. He holds a Master’s degree in International Politics by the School of Oriental and African Studies (University of London), and degrees in Crisis Management and Public Policy. Nahuel joined Oxfam America in 2013 as Deputy Humanitarian Director, and is now Director of the Humanitarian Response Department."
+-
+  id: 11
+  rockstar: true
+  name: "Jennifer Leaning"
+  title: "Professor"
+  company: "Harvard University, USA"
+  country: "USA"
+  thumbnailUrl: jennifer-leaning.jpg
+  bio: "Dr. Leaning’s research and policy interests include issues of public health, medical ethics, and early warning in response to war and disaster, human rights and international humanitarian law in crisis settings, and problems of human security in the context of forced migration and conflict. She has field experience in problems of public health assessment and human rights in a range of crisis situations (including Afghanistan, Albania, Angola, Kosovo, the Middle East, former Soviet Union, Somalia, the Chad-Darfur border, and the African Great Lakes area) and has written widely on these issues. Dr. Leaning serves on the boards of The Humane Society of the United States, and the Massachusetts Bay Chapter of the American Red Cross. She formerly served on the board of Physicians for Human Rights (an organization she co-founded), Physicians for Social Responsibility, and Oxfam America.  She is Visiting Editor of the British Medical Journal, serves on the editorial board of Health and Human Rights, and is a member of the Board of Syndics at Harvard University Press. From 1999 to 2005, Dr. Leaning directed the Program on Humanitarian Crises and Human Rights at the François-Xavier Bagnoud Center for Health and Human Rights at the Harvard School of Public Health, during which time Dr. Leaning also served as Editor-in-Chief of Medicine & Global Survival, an international quarterly. From 2005-2009, Dr. Leaning founded and co-directed the Harvard Humanitarian Initiative. Ms. Leaning will moderate our panel on the reponse of the international community."
+-
+  id: 7
+  rockstar: true
+  name: "Charles MacCormack"
+  title: "President and CEO"
+  company: "Save The Children, USA"
+  country: "USA"
+  thumbnailUrl: charles-maccormack.jpg
+  bio: "As President and CEO of Save The Children for nearly two decades, he increased the scale of its impact by helping to reduce newborn and child mortality by nearly 50 percent around the world. Reaching tens of millions of children annually, the nonprofit organization is active in over 50 countries. He is based in Connecticut."
+-
+  id: 17
+  rockstar: true
+  name: "Richard Rowe"
+  title: "Chairman and CEO"
+  company: "Open Learning Exchange, Inc."
+  country: "USA"
+  thumbnailUrl: richard-rowe.jpg
+  bio: "Dr. Richard Rowe is Chairman and CEO of the Open Learning Exchange, Inc. (OLE), a social benefit organization (501c3). OLE works with nation-based organizations in Asia, the Middle East, Africa and Latin America committed to ensuring a quality, basic learning environment for all of their people, focusing on children, especially girls, in areas of conflict and severe poverty. <br><br><br> Dr. Rowe received his B.A. in Psychology from UCLA and his Ph.D. in Clinical Psychology from Columbia University.  He has a Masters Degree in Psychology of Religion from Boston University and a Certificate from the Owner/President Program at Harvard Business School. A licensed Psychologist in Massachusetts, Dr. Rowe is a Visiting Practitioner a the Harvard Graduate School of Education and has served as Associate Dean, as Director of Harvard’s interfaculty Doctoral Program in Clinical Psychology and Public Practice and as Chair of Harvard’s Center for Studies in Education and Development. He has been Director of the Test Development and Research Office of the West African Examinations Council, a member of the Massachusetts State Board of Education, Chair of the Statewide Advisory Council for the Massachusetts Office for Children, as Chair of the Massachusetts Business Alliance for Education and as President of the One Laptop Per Child Foundation.  He is on the Board of the Small Planet Institute and is the Publisher of the Small Planet Media."
+-
+  id: 6
+  rockstar: true
+  name: "Mohamad Al-Bardan"
+  title: ""
+  company: "Activist, Syria"
+  country: "USA"
+  thumbnailUrl: mohamad.jpg
+  bio: "Mohamad Al Bardan is an engineering consultant and a Syrian civil society activist. Al Bardan is a founding member and a director at the American Relief Coalition for Syria (ARCS) which is a group of 13 leading American relief and humanitarian organizations dedicated to delivering aid and development programs to millions of Syrians. Al Bardan is also a board member at the Syrian Expatriates organization, a humanitarian organization. Prior to coming to the United States in 2011, Al Bardan and a group of Syrian activists have founded the Syrian Nonviolence Movement, an movement formed to promote peaceful struggle and civil resistance as a way to achieve social, cultural, and political change in Syrian government and society. He recently launched the Boston Solidarity Movement to advocate for increased resettlement of Syrian refugees in New England. Mohamad will moderate our panel on Refugee Education in the Middle East."
+-
+  id: 8
+  rockstar: true
+  name: "Omar Salem"
+  title: "Chairman of the Board"
+  company: "Karam Foundation, USA"
+  country: "USA"
+  thumbnailUrl: omar-salem.jpg
+  bio: "Omar was born and raised in Damascus, Syria, and moved to the USA in 1996. Omar joind Karam Foundation as volunteer in 2009 to aid in the resettling of the Iraqi Refugees into the Boston area. He joind Karam in its first Innovative Education program to serve the displaced Syrian children in northern Syria. He has led Karam’s dental and hygiene teams during five missions providing dental treatment and preventative care to over 3700 Syrian refugee children. Omar is past president of the Syrian American Dental Association and past vice president of the Syrian American Medical Society (SAMS)- New England Chapter. Omar serve on the executive committee of ARCS (American Relief Coalition of Syria)."
+-
+  id: 10
+  rockstar: true
+  name: "Alexandra Chen"
+  title: "Child Protection Specialist"
+  company: "UN Advisor/Harvard University, USA"
+  country: "USA"
+  thumbnailUrl: alexandra-chen.jpg
+  bio: "Alexandra Chen is a child protection and mental health specialist from Hong Kong working with refugees in conflict and post-conflict zones. Alexandra graduated from Harvard University (A.B., A.M.), and has worked over the last several years in the Middle East and Africa, most recently as mental health and psychosocial Advisor to the UN on the Syria crisis. Alexandra was invited to speak at the World Economic Forum in Davos on behalf of the children of Syria, and has been interviewed by NPR and several international news outlets. While continuing in her post advising the UN, Alexandra is also pursuing a Ph.D. in Human Development and Psychology at Harvard Graduate School of Education to study the impact of refugee trauma on child brain architecture. Prior, Alexandra designed peace education curricula, facilitated trauma therapy workshops for youth, researched the rights of migrant workers, and trained frontline refugee camp staff in conflict management in Israel-Palestine. As a consultant for multiple UN agencies and NGOs, she has also evaluated community-based child development and protection mechanisms in Ethiopia and Somalia, developed peace building and citizenship education curricula in Iraq and Lebanon, and researched the role of Islamic law in nation-building and constitutional reform in Egypt. Alexandra speaks 10 languages, including fluency in Chinese, Arabic and French."
+-
+  id: 16
+  rockstar: true
+  name: "Adnan Tarabishy"
+  title: ""
+  company: "Social Entrepreneur, Syria"
+  country: "USA"
+  thumbnailUrl: adnan.jpg
+  bio: "Adnan Tarabishy is a Syrian businessman and social entrepreneur. After the conflict erupted in Syria over five years ago, Adnan’s involvement with the education sector grew and he co-founded Taalim,  a CODSSY-backed not-for profit organization that aims to expand access to education and learning opportunities in Syria, by means of building and repairing damaged school buildings and financial support of their operations.  He is also associated with Alphabet, a Lebanese NGO that provides non-formal education to Syrian refugee children in Lebanon and Social Support Society, another Lebanese NGO with the mission to alleviate the suffering of the Syrian people. His companies operate in a number of countries across the Arab world such as Syria, Oman, Iraq, UAE, Lebanon and Egypt, and include PDI (Professional Development Institute), Y2Ad and Second Step. Adnan holds a Bachelor of Science in Business and an MBA from the Lebanese American University, LAU. He is currently based in Beirut and travels extensively around the globe both for business and to amass support for the Syrian cause."
+-
+  id: 3
+  rockstar: true
+  name: "Jacqueline Bhabha"
+  title: "Professor"
+  company: "Harvard University, USA"
+  country: "USA"
+  thumbnailUrl: jacqueline-bhabha.jpg
+  bio: 'Jacqueline Bhabha is a renowned defender of human and, in particular, children’s rights. She has worked as a human rights lawyer in Strasbourg and London until 1997 when she took up the role of director of the Human Rights Program at University of Chicago for four years. Bhabha has published extensively on issues of transnational child migration, refugee protection, children’s rights and citizenship. She is the author of Child Migration and Human Rights in a Global Age (2014) and has edited Children Without a State (2011) and Coming of Age: Reframing the Approach to Adolescent Rights (2014). Today, Jacqueline Bhabha is lecturer in law at Harvard Law School, lecturer on public policy at Harvard Kennedy School. She serves as Director of Research at the FXB Center for Health and Human Rights and as University Adviser on Human Rights Education to the Provost at Harvard University. We are glad to announce that Ms. Bhabha will moderate our panel on refugee education and integration in Europe.'
+-
+  id: 4
+  rockstar: true
+  name: "Claire Schiff"
+  title: "Professor"
+  company: "University of Bordeaux, France"
+  country: "USA"
+  thumbnailUrl: claire-schiff.jpg
+  bio: "Claire Schiff is Associate Professor of Sociology at the University of Bordeaux and a member of the Center Emile Durkheim (CNRS). Her research interests include urban sociology, ethnicity, transnationalism and the education and schooling of migrants and minorities in France in a comparative european perspective. She is co-editor of the book  'Migrant, Roma and Post-Colonial Youth in Education Across Europe', Palgrave Macmillian, 2014, and author of Beurs et Blédards. Les nouveaux arrivants face aux Français issus de l'immigration, éditions Le Bord de l'Eau, 2016."
+-
+  id: 5
+  rockstar: true
+  name: "Helen Haste"
+  title: "Professor"
+  company: "Harvard University, USA"
+  country: "USA"
+  thumbnailUrl: helen-haste.jpg
+  bio: "Helen Haste is a Visiting Professor and HGSE and Professor Emeritus at the University of Bath, England.  Her current work focuses on civic engagement and civic education in young people.  She has published widely on international research in Britain, China and South Africa.  Dr Haste directs the New Civics Early Career Scholars' Program at HGSE.  She describes herself as a cultural and political psychologist."
+-
+  id: 9
+  rockstar: true
+  name: "Acacia Landfield"
+  title: "Senior Project Manager"
+  company: "MIT Office of Digital Learning, USA"
+  country: "USA"
+  thumbnailUrl: acacia-landfield.jpg
+  bio: "Acacia Landfield is a Senior Project Manager at MIT's Office of Digital Learning (ODL). Prior to MIT, she delivered Harvard's Online Learning Portal in coordination with HarvardX. With her expertise, she has represented and worked for Kiron Open Higher Education (formerly known as Kiron University). Kiron is a higher education project based in Berlin which enables refugees to receive a blended university education while transitioning into the formal system. It has since spread to Turkey and Jordan as well as many countries across Europe, and continues to grow. Before working for MIT/Harvard, Acacia worked for the State Department in Bogota and Washington, DC."
+-
+  id: 13
+  rockstar: true
+  name: "Daniel Levitt"
+  title: ""
+  company: "Filmmaker"
+  country: "USA"
+  thumbnailUrl: dan.jpg
+  bio: "Dan is a recent graduate of Colorado College, where he majored in history and political-science. While there, he made the award winning short documentary Duke of the Chutes, which is slated for broadcast later this year on PBS. Recently, he finished his second short documentary, Wrestling Za'atari, about a Syrian refugee living in Jordan. Dan has worked at PBS, and currently lives in Brooklyn, New York."
+-
+  id: 14
+  rockstar: true
+  name: "Gemma Gronland"
+  title: "M.Ed. student, HGSE and teacher"
+  company: "Harvard University"
+  country: "USA"
+  thumbnailUrl: gemma.jpg
+  bio: "Gemma graduated from Cambridge University in 2011 where she went on to complete the Teach First Leadership Development Scheme in London. She taught ages 4 -18 in a variety of schools, all of which led her in their own way to researching Islamophobia at Harvard. She is a firm believer in the need to rethink Britain's public narrative on issues of radicalisation and our pathologising of the behaviours of young Muslims. Her research aims to probe perceptions of preventative policy in schools and to equip individuals working on the ground to serve social justice. Whilst she is working within the British context, there is ample opportunity to see how similar ethical dilemmas are posed more generally across the west."
+-
+  id: 15
+  rockstar: true
+  name: "George Batah"
+  title: ""
+  company: "Activist, Syria"
+  country: "USA"
+  thumbnailUrl: george-batah.jpg
+  bio: "George Batah is a young professional and Syrian activist who moved to the U.S. in 2013 as part of an academic program to study Business Administration . George lives and works in Chicago and actively advocates and fundraises for causes like Education, Humanitarian Relief and Women Empowerment. He carried on a successful petition to increase the number of refugees admitted by the US and have been invited to the White House, his work has been featured on CNN, Washington Post, The Atlantic and Huffington Post among others. Eventually, his efforts led to the administration's decision to increase the refugee cap and humanitarian aids to Syria. George writes regularly for the Huffington Post and he is co-founder of “Syrian Youths Empowerment” an initiative to empower and help Syrian high school students in Syria and neighboring countries."
+-
+  id: 100
+  name: "Kolja"
+  surname: "Wohlleben"
+  title: "Chair"
+  company: "Harvard University"
+  thumbnailUrl: kolja.jpg
+  team: true
+  bio: "Kolja is a graduate student at Harvard's Graduate School of Education. Before re-entering academia in 2015, he worked as a fellow of TeachFirst in Hamburg, Germany where he developed his affection for education and teaching. The recent developments in his native Germany have stirred his interest in refugee and migrant education."
+- 
+  id: 102
+  name: "David"
+  surname: "Dao"
+  company: "Broad Institute of MIT and Harvard"
+  thumbnailUrl: david.png
+  team: true
+  social: 
+    - {name: "site", link: ""}
+  bio: "David is a graduate researcher at the Broad Institute of MIT and Harvard. Before coming to Boston, he worked as fellow at CERN in Geneva, Switzerland and for Google at the European Bioinformatics Institute in Cambridge, UK. Having grown up with a sino-german background, multiculturalism has always been part of David's life."
+- 
+  id: 101
+  name: "Hibatalla"
+  surname: "Ibrahim"
+  company: "Harvard University"
+  thumbnailUrl: hiba.jpg
+  bio: "Hibatalla Ibrahim is an Ed.M. Candidate in International Education Policy program at Harvard Graduate School of Education. Her background as a teacher for Rohingya refugees and as a Sudanese immigrant served as defining experiences that helped solidify her passion for education in emergencies and conflict zones. She aspires to help in crafting innovative solutions to contemporary educational challenges that face the MENA region, with emphasis on girls and urban refugee populations. "
+  team: true
+- 
+  id: 103
+  name: "Sonya"
+  surname: "Temko"
+  title: ""
+  company: "Harvard University"
+  thumbnailUrl: sonya.jpeg
+  team: true
+  bio: "Sonya Temko graduated with a B.A. in French and Francophone Studies and English Literature from Mills College in 2013. Through Fulbright she taught English in a public high school and volunteered with migrants in northern France. As a current Ed. M. candidate in International Education Policy at Harvard Graduate School of Education, Sonya is especially interested in peace building and youth partnership through civic education for refugees and host populations."
+- 
+  id: 104
+  name: "Madhuri"
+  surname: "Dhariwal"
+  company: "Harvard University"
+  bio: "Madhuri is an Ed.M. candidate at the Harvard Graduate School of Education, focusing on International Education Policy. Prior to coming here, she was a teacher in India. She is interested in helping marginalized groups receive quality education."
+  thumbnailUrl: "madhuri.jpg"
+  team: true
+  social: 
+    - {name: "site", link: ""}
+- 
+  id: 105
+  name: "Zohal"
+  surname: "Atif"
+  company: "Harvard University"
+  thumbnailUrl: zohan.jpg
+  team: true
+  social: 
+    - {name: "site", link: ""}
+  bio: "Zohal Atif, is an Ed.M. candidate at Harvard Graduate School of Education with a focus in International Education Policy. Prior to her graduate studies she worked in non-profit financial management sector and as an Afghan education consultant for Institute of International Education. As a former Afghan refugee she is interested in exploring innovative solutions to educational challenges in conflict zones."
+- 
+  id: 106
+  name: "Sonja"
+  surname: "Anderson"
+  company: "Harvard University"
+  thumbnailUrl: sonja.jpg
+  team: true
+  bio: "Sonja received her B.A. in 2012 from the University of San Francisco where she studied Middle Eastern Politics and Cultures. She is now pursuing her Ed.M. enrolled in the International Education Policy program at the Harvard Graduate School of Education. Sonja focuses on the provision of education in conflict-affected settings specifically in the Middle East. She is particularly interested in how history of conflict is taught and incorporated into a community’s collective memory. Her current work supports Open Learning Exchange in designing its new community-based education program for Syrian refugee girls in Zaatari camp. Sonja is originally from San Juan Island in Washington State."

@@ -80,7 +80,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "100", specialCharacter: "+", info: "attendees", detail: "from Harvard and Boston colleges"}
  - {count: "10", specialCharacter: "", info: "speakers", detail: "from Europe, the Middle East and the US"}
- - {count: "5", specialCharacter: "", info: "panels", detail: "to engage researchers, practitioners and policymakers"}
+ - {count: "3", specialCharacter: "", info: "panels", detail: "to engage researchers, practitioners and policymakers"}
 
 # Latest News Block (We dont need )
 latestNewsTitle: "Latest news"

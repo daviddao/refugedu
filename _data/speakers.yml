@@ -6,14 +6,14 @@
   company: "Za’atari Refugee Camp"
   country: ""
   thumbnailUrl: kilian-kleinschmidt.jpg
-  bio: ''
+  bio: 'Kilian Kleinschmidt is an international networker, humanitarian, and refugee expert with over 25 years of experience as a United Nations official, aid worker, and diplomat. He has has become known as the “Mayor of Za’atari” for the management of the Za’atari refugee camp in Northern Jordan from 2013–2014. Mr. Kleinschmidt has acted as deputy humanitarian coordinator for Somalia, deputy special envoy for assistance to Pakistan, acting director for communities and minorities in the UN administration in Kosovo, executive secretary for the Migration and Refugee Initiative (MARRI) in the Stability Pact for South Eastern Europe, and held many field based functions with UNHCR, UNDP, and WFP. Today, Mr. Kleinschmidt is working as founder and chairman of the Startup Innovation and Planning Agency (IPA) which aims to connect the millions of poor and dispossessed with the idle and under-utilised resources and modern technologies of the 21st century through its project SWITxBOARD. <br> <br> We are delighted to announce that Mr. Kleinschmidt will open our conference with his keynote speech.'
 -
   id: 2
   rockstar: true
   name: "Markus Kressler"
   title: "Co-Founder"
   company: "Kiron University"
-  country: ""
+  country: "Germany"
   thumbnailUrl: markus-kressler.jpg
   bio: 'Markus Kressler, born 1990, is the founder of Kiron University in Berlin, Germany. The student of psychology realized the massive obstacles refugees faced when trying to enter higher education in Germany and decided to act. With the support of colleagues and other volunteers, he has founded a university that does not insist on the formal requirements refugees are often unable to meet. German universities have already agreed to acknowledge the gained credits once the students’ residential status has been set and they are ready to transition into the formal system. Since its foundation, Kiron has expanded to Munich, Brussels and Istanbul. Mr. Kressler is currently responsible for Kiron’s expansion into Turkey and Jordan. We are delighted to have him as a speaker at our panel on refugee education and integration in Europe.'
 -
@@ -22,6 +22,15 @@
   name: "Jacqueline Bhabha"
   title: "Professor"
   company: "Harvard University"
-  country: ""
+  country: "USA"
   thumbnailUrl: jacqueline-bhabha.jpg
   bio: 'Jacqueline Bhabha is a renowned defender of human and, in particular, children’s rights. She has worked as a human rights lawyer in Strasbourg and London until 1997 when she took up the role of director of the Human Rights Program at University of Chicago for four years. Bhabha has published extensively on issues of transnational child migration, refugee protection, children’s rights and citizenship. She is the author of Child Migration and Human Rights in a Global Age (2014) and has edited Children Without a State (2011) and Coming of Age: Reframing the Approach to Adolescent Rights (2014). Today, Jacqueline Bhabha is lecturer in law at Harvard Law School, lecturer on public policy at Harvard Kennedy School. She serves as Director of Research at the FXB Center for Health and Human Rights and as University Adviser on Human Rights Education to the Provost at Harvard University. We are glad to announce that Ms. Bhabha will moderate our panel on refugee education and integration in Europe.'
+-
+  id: 4
+  rockstar: true
+  name: "Claire Schiff"
+  title: "Professor"
+  company: "University of Bordeaux"
+  country: "USA"
+  thumbnailUrl: claire-schiff.jpg
+  bio: "Claire Schiff is Associate Professor of Sociology at the University of Bordeaux and a member of the Center Emile Durkheim (CNRS). Her research interests include urban sociology, ethnicity, transnationalism and the education and schooling of migrants and minorities in France in a comparative european perspective. She is co-editor of the book  'Migrant, Roma and Post-Colonial Youth in Education Across Europe', Palgrave Macmillian, 2014, and author of Beurs et Blédards. Les nouveaux arrivants face aux Français issus de l'immigration, éditions Le Bord de l'Eau, 2016."

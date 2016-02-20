@@ -49,7 +49,7 @@
   name: "Zohal"
   surname: "Atif"
   title: ""
-  thumbnailUrl: 
+  thumbnailUrl: zohan.jpg
   team: true
   social: 
     - {name: "site", link: ""}
@@ -58,7 +58,7 @@
   name: "Sonja"
   surname: "Anderson"
   title: ""
-  thumbnailUrl: 
+  thumbnailUrl: sonja.jpg
   team: true
   social: 
     - {name: "site", link: ""}

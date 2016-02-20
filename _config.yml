@@ -40,7 +40,7 @@ googleAnalyticsSiteUrl: "hacknhelp.org"
 # Documents
 #c4pUrl: "https://bit.ly/dfua-c4p"
 #c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
-c4sponsorsUrl: "mailto:"
+c4sponsorsUrl: "mailto:kow231@mail.harvard.edu"
 seaturl: ""
 
 # Navigation
@@ -164,7 +164,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "Our Team"
-aboutUs: "We are awesome. Blabla."
+aboutUs: ""
 
 # Hackathon
 hackathonTitle: "Hackathon"

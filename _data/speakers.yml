@@ -34,3 +34,63 @@
   country: "USA"
   thumbnailUrl: claire-schiff.jpg
   bio: "Claire Schiff is Associate Professor of Sociology at the University of Bordeaux and a member of the Center Emile Durkheim (CNRS). Her research interests include urban sociology, ethnicity, transnationalism and the education and schooling of migrants and minorities in France in a comparative european perspective. She is co-editor of the book  'Migrant, Roma and Post-Colonial Youth in Education Across Europe', Palgrave Macmillian, 2014, and author of Beurs et Blédards. Les nouveaux arrivants face aux Français issus de l'immigration, éditions Le Bord de l'Eau, 2016."
+- 
+  id: 100
+  name: "Kolja"
+  surname: "Wohlleben"
+  company: "Chair"
+  thumbnailUrl: kolja.jpg
+  team: true
+  bio: "Kolja is a graduate student at Harvard's Graduate School of Education. Before re-entering academia in 2015, he worked as a fellow of TeachFirst in Hamburg, Germany where he developed his affection for education and teaching. The recent developments in his native Germany have stirred his interest in refugee and migrant education."
+- 
+  id: 101
+  name: "Hibatalla"
+  surname: "Ibrahim"
+  company: ""
+  thumbnailUrl: speaker1.jpg
+  team: true
+- 
+  id: 102
+  name: "Sonya"
+  surname: "Temko"
+  title: ""
+  thumbnailUrl: speaker1.jpg
+  team: true
+  bio: ""
+- 
+  id: 103
+  name: "David"
+  surname: "Dao"
+  company: ""
+  thumbnailUrl: david.png
+  team: true
+  social: 
+    - {name: "site", link: ""}
+  bio: "David is a graduate researcher at the Broad Institute of MIT and Harvard. Before coming to Boston, he worked as fellow at CERN in Geneva, Switzerland and for Google in Cambridge, UK. Having grown up with a sino-german background, multiculturalism has always been part of David's life."
+- 
+  id: 104
+  name: "Madhuri"
+  surname: "Dhariwal"
+  company: ""
+  thumbnailUrl: speaker1.jpg
+  team: true
+  social: 
+    - {name: "site", link: ""}
+- 
+  id: 105
+  name: "Zohal"
+  surname: "Atif"
+  company: ""
+  thumbnailUrl: zohan.jpg
+  team: true
+  social: 
+    - {name: "site", link: ""}
+  bio: "Zohal Atif, is an Ed.M. candidate at Harvard Graduate School of Education with a focus in International Education Policy. Prior to her graduate studies she worked in non-profit financial management sector and as an Afghan education consultant for Institute of International Education. As a former Afghan refugee she is interested in exploring innovative solutions to educational challenges in conflict zones."
+- 
+  id: 106
+  name: "Sonja"
+  surname: "Anderson"
+  company: ""
+  thumbnailUrl: sonja.jpg
+  team: true
+  bio: "Sonja received her B.A. in 2012 from the University of San Francisco where she studied Middle Eastern Politics and Cultures. She is now pursuing her Ed.M. enrolled in the International Education Policy program at the Harvard Graduate School of Education. Sonja focuses on the provision of education in conflict-affected settings specifically in the Middle East. She is particularly interested in how history of conflict is taught and incorporated into a community’s collective memory. Her current work supports Open Learning Exchange in designing its new community-based education program for Syrian refugee girls in Zaatari camp. Sonja is originally from San Juan Island in Washington State."

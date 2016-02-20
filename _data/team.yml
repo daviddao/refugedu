@@ -1,6 +1,6 @@
 
 - 
-  id: 0
+  id: 100
   name: "Kolja"
   surname: "Wohlleben"
   title: ""
@@ -9,7 +9,7 @@
   social: 
     - {name: "site", link: ""}
 - 
-  id: 1
+  id: 101
   name: "Hibatalla"
   surname: "Ibrahim"
   title: ""
@@ -18,7 +18,7 @@
   social: 
     - {name: "site", link: ""}
 - 
-  id: 2
+  id: 102
   name: "Sonya"
   surname: "Temko"
   title: ""
@@ -27,7 +27,7 @@
   social: 
     - {name: "site", link: ""}
 - 
-  id: 3
+  id: 103
   name: "David"
   surname: "Dao"
   title: ""
@@ -35,8 +35,9 @@
   team: true
   social: 
     - {name: "site", link: ""}
+  bio: "David is awesome"
 - 
-  id: 4
+  id: 104
   name: "Madhuri"
   surname: "Dhariwal"
   title: ""
@@ -45,7 +46,7 @@
   social: 
     - {name: "site", link: ""}
 - 
-  id: 5
+  id: 105
   name: "Zohal"
   surname: "Atif"
   title: ""
@@ -53,8 +54,9 @@
   team: true
   social: 
     - {name: "site", link: ""}
+  bio: "Zohal Atif, is an Ed.M. candidate at Harvard Graduate School of Education with a focus in International Education Policy. Prior to her graduate studies she worked in non-profit financial management sector and as an Afghan education consultant for Institute of International Education. As a former Afghan refugee she is interested in exploring innovative solutions to educational challenges in conflict zones."
 - 
-  id: 6
+  id: 106
   name: "Sonja"
   surname: "Anderson"
   title: ""

@@ -52,7 +52,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- #- {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/ideation/", text: "Art Gallery"}
 bottomNavigationLinks:
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -116,6 +116,18 @@ venueSmallImage3: "venue_3.jpg"
 venueTitle: "Askwith Hall, Harvard Graduate School of Education"
 venueFeatures: ["", "", ""]
 
+# Artist Block
+commonBigImage: "common1.jpg"
+commonSmallImage1: "common2.jpg"
+commonSmallImage2: "common3.jpg"
+commonSmallImage3: "common4.jpg"
+
+art1BigImage: "aron.jpg"
+art2BigImage: "bissane.jpg"
+art3BigImage: "joel.jpg"
+
+
+
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Tweet "
@@ -148,11 +160,6 @@ The brutal civil war in Syria has increased the already significant flow of refu
 Millions are making the precarious journey to neighboring countries and across the Mediterranean in overcrowded rickety boats or are choosing ever more dangerous routes by land in search of more stable and secure lives on the European continent. As a result, host countries in Middle East are facing a significant burden and the European governments are struggling to cope with the influx."}
  - {title: "<h5>A one day conference</h5>", image: "syria.png", details: "<em>Refugees and Education: Confronting the Crisis</em>, is a one-day event that strives to engage researchers, practitioners and policymakers from Europe, the Middle East and the US in constructive dialogue about the global response to the refugee crisis. It aims to address issues of education in emergencies, overburdened systems in neighboring countries and the European response to refugees’ educational ambitions and needs."}
  - {title: "<h5>Attend and be inspired</h5>", image: "conference.png", details: "We strive not only to offer a space for rich discussion but also to serve as a call to action and a springboard for possible solutions. These goals are embedded within a larger Harvard-wide effort to influence policy, foster dialogue, raise funds and advocate for Syrian refugees under the umbrella of the Harvard Coalition for Syrian Refugees. This coalition is supported by the Harvard Middle East Initiative and is comprised of members from the Harvard Graduate School of Education, Harvard Law School, Harvard Kennedy School, Harvard Divinity School, Harvard T.H. Chan School of Public Health, Harvard Business School, Faculty of Arts and Sciences and Harvard College."}
-ideationSummaryTitle: "What happened so far?"
-ideationSummary:
- - {text: "At our Ideation MeetUp we were able to welcome more than 60 people, with speakers from more than 10 organisations and one refugee. Everyone was keen on listening to different experiences and get to know various problems faced."}
- - {text: "Suar told us his story, how he fled from Kurdistan in 2012 because of political and safety reasons. He then lived in Turkey for almost two years, where he learned Turkish but was not allowed to study or work. So he then carried on to get to Germany. In 2014, he left Turkey by foot, making his way through various countries until he eventually found to Austria, where he continued by car. When considering his border crossing, he had tried to use GPS on his smartphone but Google maps, for example, doesn’t provide information on where the safest place to cross a border on foot is.  What would have been helpful was information about how to enter a country safely. Additionally, as many refugees are weak, hungry, and dehydrated, information about where to get accessible food and water after entering a 'safe' country is critical. critical.
-All in all, what was most missing for him was information and guidance about what would help him to make a safe passage into a country and what to do after arriving."}
 
 # Blog
 blogTitle: "Latest news"

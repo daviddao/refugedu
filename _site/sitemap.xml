@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://refugedu.com/about/</loc>
+  </url>
+  <url>
     <loc>http://refugedu.com/blog/</loc>
   </url>
   <url>
@@ -10,7 +13,7 @@
     <loc>http://refugedu.com/hackathon/</loc>
   </url>
   <url>
-    <loc>http://refugedu.com/about/</loc>
+    <loc>http://refugedu.com/ideation/</loc>
   </url>
   <url>
     <loc>http://refugedu.com/</loc>
@@ -29,6 +32,6 @@
   </url>
   <url>
     <loc>http://refugedu.com/css/addthisevent.theme6/index.html</loc>
-    <lastmod>2016-02-20T11:43:36-05:00</lastmod>
+    <lastmod>2016-04-08T11:09:02-04:00</lastmod>
   </url>
 </urlset>

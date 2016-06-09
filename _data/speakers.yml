@@ -162,6 +162,14 @@
     - {name: "site", link: ""}
   bio: "David is a graduate researcher at the Broad Institute of MIT and Harvard. Before coming to Boston, he worked as fellow at CERN in Geneva, Switzerland and for Google at the European Bioinformatics Institute in Cambridge, UK. As son of former refugees, he is interested in finding solutions to the crisis."
 - 
+  id: 101		
+  name: "Hibatalla"		
+  surname: "Ibrahim"		
+  company: "Harvard University"		
+  thumbnailUrl: speaker1.jpg		
+  bio: "Hibatalla Ibrahim is an Ed.M. Candidate in International Education Policy program at Harvard Graduate School of Education. Her background as a teacher for Rohingya refugees and as a Sudanese immigrant served as defining experiences that helped solidify her passion for education in emergencies and conflict zones. She aspires to help in crafting innovative solutions to contemporary educational challenges that face the MENA region, with emphasis on girls and urban refugee populations. "		
+  team: true
+-
   id: 103
   name: "Sonya"
   surname: "Temko"
